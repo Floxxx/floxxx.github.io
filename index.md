@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Floxxx Home Page
+title: PHP User Group Limburg and Eindhoven
 ---
 {% include JB/setup %}
-
 
 

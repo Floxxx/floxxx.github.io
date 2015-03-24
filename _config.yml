@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Floxxx Home Page
-tagline: Site Tagline
+title : PUGLE
+tagline: PHP User Group Limburg and Eindhoven
 author :
   name : Ben Willems
   email : ben@netants.nl
